@@ -1,7 +1,7 @@
 # Vtora laboratoriska vezba po Softversko inzenerstvo
 ## Ilija Manevski, br. na indeks 226045
 
-2.
+2. 
     ![CFG](https://github.com/0226045/SI_2024_lab2_226045/assets/138158821/d1999ec6-883d-4bd0-8590-4d6e4a782754)
 
 3. Za presmetuvanje na ciklomatskata kompleksnost za dadeniot kod, potrebno e da se izbrojat site regioni vo nacrtaniot graf. Pa taka, se dobiva ciklomatska kompleksnost koja iznesuva deset.
