@@ -10,6 +10,7 @@
    ![table1](https://github.com/0226045/SI_2024_lab2_226045/assets/138158821/05486d77-45a5-459a-825a-2da9b78a3657)
    
 Vo prviot slucaj gi zadavame slednite vrednosti:  'pay: 100' item1_price = 40 | sum = 40(item1_price) i sledniot pat kade 'i = 1' i 'i < 2' za item2_price=40 , sum = sum + item2_price -> sum = 80 | sum < pay (80 < 100)
+
 Vo vtoriot slucaj gi zadavame slednite vrednosti: 'pay: 100' itemPrice = 4000 | sum = 4000(itemPrice) * 0.1(discount) = 400 | 'sum = 370' | sum > pay (370 > 100)
 
 Za slednite slucai ni preostana da gi opfatime isklucocite. Toa go pravime so zadavanje na slednite vrednosti, i toa za:
